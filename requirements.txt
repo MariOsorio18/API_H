@@ -6,4 +6,5 @@ networkx==3.3
 osmnx==1.8.1
 geopy==2.4.1
 pandas==2.2.2
-networkx
+networkx==3.2.1
+
