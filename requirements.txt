@@ -1,3 +1,2 @@
-Flask
-osmnx
-networkx 
+flask
+requests
