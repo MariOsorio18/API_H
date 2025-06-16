@@ -1,2 +1,9 @@
-flask
-requests
+Flask==2.3.3
+requests==2.31.0
+flask-cors==4.0.0
+gunicorn==21.2.0
+networkx==3.3
+osmnx==1.8.1
+geopy==2.4.1
+pandas==2.2.2
+networkx
